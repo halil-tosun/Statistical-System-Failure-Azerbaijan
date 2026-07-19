@@ -3,6 +3,7 @@
 **Measuring Agricultural Reconstruction under Statistical System Failure: Evidence from Post-Conflict Azerbaijan**
 
 Author: Halil Tosun, Ph.D.
+
 ORCID: https://orcid.org/0000-0001-5117-0390
 
 ---
