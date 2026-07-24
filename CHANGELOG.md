@@ -31,4 +31,4 @@ The format is inspired by *Keep a Changelog* and follows semantic versioning whe
 - Repository prepared for GitHub release and Zenodo archiving.
 
 ### Notes
-The Zenodo DOI will be added after the first public GitHub release.
+The Zenodo DOI: https://doi.org/10.5281/zenodo.21435734
