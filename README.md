@@ -111,6 +111,6 @@ ORCID: https://orcid.org/0000-0001-5117-0390
 
 Email: halilibrahimtosun@gmail.com
 
-**Version:** 1.0.0
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435734
 
-**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435733
+**Version:** 1.0.0
