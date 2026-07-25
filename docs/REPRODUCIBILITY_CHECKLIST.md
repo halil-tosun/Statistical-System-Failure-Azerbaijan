@@ -26,7 +26,9 @@
 | Tables reproducible | ✓ |
 | Shared, seeded permutation module for cross-table consistency | ✓ |
 | Open repository planned | ✓ |
-| Zenodo DOI | ☐ Pending repository release |
+| Zenodo DOI | ✓  |
+
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435734
 
 ---
 
@@ -62,6 +64,8 @@ methodology and should match exactly:
 
 ## Transparency Statement
 
-This repository has been prepared to maximize computational reproducibility and
-long-term accessibility. After public release, the archived GitHub repository will
-be linked to Zenodo to obtain a permanent DOI.
+This repository has been prepared to maximize computational reproducibility and long-term accessibility. The public GitHub repository has been permanently archived in Zenodo and assigned the following Digital Object Identifier (DOI):
+
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435734
+
+This DOI provides a persistent, citable record of the repository and ensures long-term preservation, accessibility, and reproducibility of the associated research outputs.
