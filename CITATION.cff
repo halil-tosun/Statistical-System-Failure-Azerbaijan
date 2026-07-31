@@ -7,10 +7,10 @@ authors:
     given-names: "Halil"
     orcid: "https://orcid.org/0000-0001-5117-0390"
 email: "halilibrahimtosun@gmail.com"
-repository-code: "https://doi.org/10.5281/zenodo.21435734"
+repository-code: "https://doi.org/10.5281/zenodo.21435733"
 date-released: "2026-07-19"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.21435734"
+    value: "10.5281/zenodo.21435733"
     description: "The digital object identifier of the replication package archived on Zenodo."
 license: "MIT"
