@@ -2,7 +2,7 @@
 
 ## Open Science Replication Package
 
-This repository contains the complete replication package accompanying the manuscript **"Measuring Agricultural Reconstruction under Statistical System Failure: Evidence from Post-Conflict Azerbaijan"** prepared for submission to the **American Journal of Agricultural Economics (AJAE)**.
+This repository contains the complete replication package accompanying the manuscript **"Measuring Agricultural Reconstruction under Statistical System Failure: Evidence from Post-Conflict Azerbaijan"**.
 
 ---
 
@@ -111,6 +111,6 @@ ORCID: https://orcid.org/0000-0001-5117-0390
 
 Email: halilibrahimtosun@gmail.com
 
-**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435734
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435733
 
 **Version:** 1.0.0
