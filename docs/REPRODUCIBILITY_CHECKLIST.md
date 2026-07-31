@@ -28,7 +28,7 @@
 | Open repository planned | ✓ |
 | Zenodo DOI | ✓  |
 
-**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435734
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435733
 
 ---
 
@@ -66,6 +66,6 @@ methodology and should match exactly:
 
 This repository has been prepared to maximize computational reproducibility and long-term accessibility. The public GitHub repository has been permanently archived in Zenodo and assigned the following Digital Object Identifier (DOI):
 
-**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435734
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21435733
 
 This DOI provides a persistent, citable record of the repository and ensures long-term preservation, accessibility, and reproducibility of the associated research outputs.
